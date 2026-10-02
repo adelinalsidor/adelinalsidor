@@ -21,7 +21,9 @@ Hi, I'm Adelina
   - [**partial-delivery-track-match**](https://github.com/adelinalsidor/partial-delivery-track-match) - reconciles purchase orders against supplier invoices, per partial delivery.
   - [**auto-parts-price-crossref-checker**](https://github.com/adelinalsidor/auto-parts-price-crossref-checker) - cross-references part codes across manufacturers and checks each price.
 
-  **In development:** an "AI Sales Funnel" and an "AI Negotiation Coach" built on my own negotiation experience.
+  **In development:**
+  -**AI Negotiation Coach** - a coaching app built starting from my own negotiation experience: interactive practice scenarios where you rehearse real commercial negotiations and get feedback.
+  -**AI Sales Funnel** - an AI-powered lead-generation funnel, from first contact to qualified lead.
 
   If you want to test AI on a real business problem with low risk, let's talk about a pilot.
 
